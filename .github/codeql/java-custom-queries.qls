@@ -1,4 +1,5 @@
 - import: codeql-suites/java-code-scanning.qls
+  from: codeql-java
 - exclude:
     id:
     - java/tainted-numeric-cast
