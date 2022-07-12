@@ -3,3 +3,4 @@
 - exclude:
     id:
     - java/tainted-numeric-cast
+    - java/xml/xpath-injection
