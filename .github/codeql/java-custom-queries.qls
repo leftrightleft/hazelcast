@@ -3,4 +3,8 @@
 - exclude:
     id:
     - java/tainted-numeric-cast
-    - java/xml/xpath-injection
+    - java/polynomial-redos
+    - java/path-injection
+    - java/ssrf
+    
+    
